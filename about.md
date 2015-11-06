@@ -4,12 +4,22 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+## Some information about photoGRAPHICdesign!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+We take care of your layout, photography, web and communications. We're specialized in action sports and travel.
 
-### Contact me
+### Specialities
 
-[email@domain.com](mailto:email@domain.com)
+Graphic design, web design, copywriting, multilingual, mountain biking, outdoor sports, traveling.
+
+### Headquarters
+
+place de Trahegnies 3
+7134 Leval-Trahegnies
+Belgium
+
+### Contact us
+
+[infos@photographicdesign.be](mailto:infos@photographicdesign.be)
