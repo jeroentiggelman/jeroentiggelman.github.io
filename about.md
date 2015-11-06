@@ -17,7 +17,9 @@ Graphic design, web design, copywriting, multilingual, mountain biking, outdoor 
 ### Headquarters
 
 place de Trahegnies 3
+
 7134 Leval-Trahegnies
+
 Belgium
 
 ### Contact us
